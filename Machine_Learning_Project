@@ -95,7 +95,7 @@ def predict_student(model):
 
 # 9. MAIN FUNCTION
 def main():
-    print("📊 Student Performance Predictor\n")
+    print("Student Performance Predictor\n")
 
     df = load_data()
     print("Dataset:\n", df)
